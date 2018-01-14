@@ -43,8 +43,8 @@ editdistance 0.3.1
 How to Use
 --------------
 Prepare Data:
-	1. cp ```dsp_hw2/speechdata/``` under this directory.
-	2. ```bash extrac_feat.sh``` to extract data to mfcc feature under data/ directory.
+1. cp ```dsp_hw2/speechdata/``` under this directory.
+2. ```bash extrac_feat.sh``` to extract data to mfcc feature under data/ directory.
 
 Train:
 ```
