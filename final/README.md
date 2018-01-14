@@ -65,5 +65,5 @@ optional arguments:
   --batch_size BATCH_SIZE
   --hidden_size HIDDEN_SIZE
 ```
-```test.py``` will load pretrained ```encoder.pt``` and ````decoder.pt``` to calculate accuracy on test data.
+```test.py``` will load pretrained ```encoder.pt``` and ```decoder.pt``` to calculate accuracy on test data.
 Note that hidden size should as same as training.
